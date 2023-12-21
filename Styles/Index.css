@@ -192,9 +192,6 @@ html {
 }
 
 .transNavText {
-  font-size: 1.5rem;
-  font-weight: 700;
-  padding-left: 1rem;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   background-clip: text;
